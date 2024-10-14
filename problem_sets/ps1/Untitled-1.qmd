@@ -2,6 +2,7 @@
 title: "Untitled"
 format: html
 ---
-
+```{python}
 import pandas as pd
 import altair as alt
+```
